@@ -27,4 +27,18 @@
 		"STOP_MESSAGE": "Machs gut!",
 		"WELCOME_MESSAGE": "Willkommen bei {}. Der input text ist: {}"
 	}
+	"it":{
+	    	"ERROR_401": "Sembra che io non abbia l'autorizzazione per accedere ad home assistant. Per favore, controlla che il tuo account sia collegato o che la chiave di accesso sia corretta",
+		"ERROR_404": "A quanto pare non sono riuscita a capire il tuo tipo di comando, Per piacere, controlla di avver aggiunto questo comando su home assistant",
+		"ERROR_400": "Mi spiace, ci deve essere un problema, non riesco a comunicare con home assistant. Ti suggerisco di controllare sui log di Amazon CloudWatch nella sezione skill personalizzate dentro alla console da sviluppatore",
+	    	"ERROR_ACOUSTIC": "Scusa, non ho capito... <break time='200ms'/> {}",
+		"ERROR_CONFIG": "Oh, a quanto pare ho qualche problema, ti sugerisco di controllare le configurazioni nella skill che mi hai chiesto.",
+		"ERROR_SPECIFIC_DATE": "Scusami ma non sono in grado di elaborare date al momento per un problema ai server, ti chiedo di riprovare più tardi",
+		"HELP_MESSAGE": "Questa skill sarà attivata solo dopo un'azione da home assistant.",
+		"OKAY": "Perfetto",
+		"SKILL_NAME": "Azioni personalizzate di Home Assistant",
+		"STOP_MESSAGE": "A presto!",
+		"SELECTED" : "Hai selezionato {}",
+		"WELCOME_MESSAGE": "Benvenuto {}. Il messaggio che ho è: {}"
+	}
 }
